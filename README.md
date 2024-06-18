@@ -1,1 +1,1 @@
-# simple_weather_app
+Weather appplication done in python.
